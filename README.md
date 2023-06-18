@@ -8,4 +8,4 @@
 
 ## Livros interativos
 * O primeiro livro é "Detetive Parker", esse livro possui várias ramificações que o usuário pode selecionaar e construir uma história que pode ou não voltar por outras ramificações não escolhidas, com isso o leitor pode terminar em 4 possíveis desfechos diferentes.
-<img src="C:\Users\Judite\Downloads\5d9b12aa-144f-41e1-ad66-d7e6310d35b0.png">
+![opa](C:\Users\Judite\Downloads\5d9b12aa-144f-41e1-ad66-d7e6310d35b0.png)
