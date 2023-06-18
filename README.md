@@ -3,7 +3,7 @@
 
 ## Apresentação 
 * Foi criado dois livros com histórias diferentes.
-* Além de poder ler os dois livros, o leitor pode selecionar para obter informações sobre a utilização do programa, ou então, pode acessar as informações dos livros e suas ramificações.
+* Além de poder ler os dois livros, o leitor pode selecionar para obter informações sobre a ultilização do programa, ou então, pode acessar as informações dos livros e suas ramificações.
 * Ao final de cada opção o usuário pode selecionar o livro que gostaria de ler.
 
 ## Livros interativos
