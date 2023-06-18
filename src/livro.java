@@ -242,8 +242,9 @@ public class livro {
 	}
 	static void informacaoDosLivros() {
 		Scanner scanner = new Scanner(System.in);
-		i("O livro Detetive Parker é um livro interativo com 2 esscolhas iniciais, depois cada uma\n"
-		+ "dessas escolhas se ramificam em masis duas...............");
+		i("O livro Detetive Parker é um livro interativo com 2 esscolhas iniciais, pode selecionar e\n"
+		+ " construir uma história que pode voltar por outras ramificações não escolhidas, com isso \n"
+		+ "o leitor pode terminar em 4 possíveis desfechos.");
 		i("O livro Mordida do Destino é um livro com apenas 2 possíbilidades, a história dele é \n"
 		+ "construida de acordo com apenass uma decisão do leitor, ou seja, com duas possibilidades\n"
 		+ "de desfecho.\nSe quiser selecionar um livro digite 1");
