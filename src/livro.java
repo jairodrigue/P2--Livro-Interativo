@@ -4,7 +4,7 @@ public class Livro {
 
 	public static void main(String[] args) {
 		Scanner scanOpcoes = new Scanner(System.in);
-		i("--LIVROS INTERATIVOS--");
+		i("----LIVROS INTERATIVOS----");
 		i("(existem 2 livros disponíveis)");
 		i("Escolha uma opção:");
 		i("1- Ler livro");
